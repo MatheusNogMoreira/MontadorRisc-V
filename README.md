@@ -1,5 +1,5 @@
 # MontadorRisc-V
-Montador para instruções Assembly RiscV,
+Montador para instruções Assembly RiscV feito em C,
 Comandos para a execução:
     
     gcc -c -l -w Funcoes/funct.c
